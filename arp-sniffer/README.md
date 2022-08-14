@@ -9,8 +9,3 @@ Tools
 * monitoring of HTTP packets sent/recieved 
 
 
-
-Test server:
-Login: 
-username: admin
-password: KoProcitaZoomer
